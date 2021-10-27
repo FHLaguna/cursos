@@ -1,0 +1,5 @@
+/**/id_rsa*
+/**/.vagrant/*
+/**/.terraform/*
+/**/.terraform*
+/**/new_user_credentials.csv
