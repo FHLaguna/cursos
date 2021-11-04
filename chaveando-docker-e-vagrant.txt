@@ -1,0 +1,1 @@
+Clique Iniciar > Busque Windows features > Clique Virtual Machine Platform > Clique OK > Restart
