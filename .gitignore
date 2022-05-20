@@ -3,3 +3,5 @@
 /**/.terraform/*
 /**/.terraform*
 /**/new_user_credentials.csv
+*.log
+/**/target/*
